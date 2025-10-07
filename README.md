@@ -37,15 +37,4 @@ The project was designed to *save lives in emergencies* by combining technology,
 ✅ *Add & find medical supplies* — community-added CPR/AED/first-aid locations  
 ✅ *Add private shelters* — for verified users to share safe places  
 
----
 
-## 🧩 Technologies Used
-
-| Technology | Purpose |
-|-------------|----------|
-| *HTML5* | App structure |
-| *CSS3* | Styling and layout (dark emergency theme) |
-| *JavaScript (Vanilla)* | Logic, GPS, and interactivity |
-| *Leaflet.js* | Maps and shelter visualization |
-| *Leaflet Routing Machine* | Real-time navigation routes |
-| *LocalStorage API* | Offline and persistent local data |
